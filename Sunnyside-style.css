@@ -428,6 +428,7 @@ main {
 }
 
 .about-link {
+  margin: 0 auto;
   margin-top: 2.5rem;
   display: block;
   text-decoration: none;
@@ -436,6 +437,7 @@ main {
   font-size: 1rem;
   position: relative;
   z-index: 9;
+  width: 120px;
 }
 
 .about-link::after {
@@ -872,12 +874,14 @@ footer svg:hover path {
   }
 
   .about-link {
-    width: 120px;
+    width: 160px;
+    margin: unset;
+    margin-top: 2.5rem;
   }
 
   .about-link::after {
     left: -6.5%;
-    width: 111%;
+    width: 86%;
     transform: unset;
   }
 
@@ -1005,13 +1009,13 @@ footer svg:hover path {
     font-size: 1.125rem;
   }
 
-  .testimonial-profile-name {
-    /* font-size: 1.125rem; */
+  /* .testimonial-profile-name {
+    font-size: 1.125rem;
   }
 
   .testimonial-profile-job {
-    /* font-size: 0.9375rem; */
-  }
+    font-size: 0.9375rem;
+  } */
 }
 
 /*-----------------------------------*\
@@ -1051,6 +1055,16 @@ footer svg:hover path {
 
   .about-link {
     font-size: 1.25rem;
+  }
+
+  .about-link {
+    width: 160px;
+  }
+
+  .about-link::after {
+    left: -6.5%;
+    width: 104%;
+    transform: unset;
   }
 
   /*-----------------------------------*\
