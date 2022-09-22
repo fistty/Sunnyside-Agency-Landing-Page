@@ -1110,7 +1110,7 @@ footer svg:hover path {
 /*-----------------------------------*\
      SCROLL IN ANIMATION
 /*-----------------------------------*/
-/* .hidden {
+.hidden {
   opacity: 0;
   transition: all 500ms ease-out;
   transform: translateY(20%);
@@ -1121,4 +1121,4 @@ footer svg:hover path {
   opacity: 1;
   transform: translateY(0);
   backdrop-filter: blur(0rem);
-} */
+}
