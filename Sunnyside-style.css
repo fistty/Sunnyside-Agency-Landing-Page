@@ -1112,7 +1112,7 @@ footer svg:hover path {
 /*-----------------------------------*/
 .hidden {
   opacity: 0;
-  transition: all 400ms ease-out;
+  transition: all 500ms ease-out;
   transform: translateY(20%);
   backdrop-filter: blur(25rem);
 }
