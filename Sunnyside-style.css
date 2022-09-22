@@ -872,12 +872,12 @@ footer svg:hover path {
   }
 
   .about-link {
-    width: max-content;
+    width: 120px;
   }
 
   .about-link::after {
     left: -6.5%;
-    width: 114%;
+    width: 111%;
     transform: unset;
   }
 
