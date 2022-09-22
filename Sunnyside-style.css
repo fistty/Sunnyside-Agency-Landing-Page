@@ -535,7 +535,7 @@ main {
 /*-----------------------------------*/
 .testimonial {
   background-color: rgb(255 251 248);
-  padding-bottom: 5.75rem;
+  padding-bottom: 10.1875rem;
   max-width: 90rem;
   margin: 0 auto;
 }
@@ -1006,7 +1006,7 @@ footer svg:hover path {
   }
 
   .testimonial-profile-name {
-    font-size: 1.125rem;
+    /* font-size: 1.125rem; */
   }
 
   .testimonial-profile-job {
@@ -1122,5 +1122,5 @@ footer svg:hover path {
 .show {
   opacity: 1;
   transform: translateY(0);
-  backdrop-filter: blur(0rem);
+  backdrop-filter: unset;
 }
