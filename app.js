@@ -3,7 +3,6 @@ const mobileMenu = document.querySelector(".nav-ul");
 const overlay = document.querySelector(".overlay");
 const navLink = document.querySelectorAll(".nav-link");
 
-const arr = [hamburger, overlay];
 
 function makeActive() {
   let act = "active";
