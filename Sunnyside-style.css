@@ -380,7 +380,7 @@ main {
 /*-----------------------------------*/
 .top-about-container {
   padding-bottom: 4.9375rem;
-  max-width: 1600px;
+  max-width: 2000px;
   margin: 0 auto;
   background-color: rgb(255 251 248);
 }
@@ -463,7 +463,7 @@ main {
 /*-----------------------------------*/
 .bottom-about-container {
   padding-bottom: 4.9375rem;
-  max-width: 1600px;
+  max-width: 2000px;
 
   margin: 0 auto;
   background-color: rgb(255 251 248);
@@ -481,7 +481,7 @@ main {
      SERVICES SECTION
 /*-----------------------------------*/
 .services {
-  max-width: 1600px;
+  max-width: 2000px;
   margin: 0 auto;
 }
 
@@ -539,7 +539,7 @@ main {
 .testimonial {
   background-color: rgb(255 251 248);
   padding-bottom: 10.1875rem;
-  max-width: 1600px;
+  max-width: 2000px;
   margin: 0 auto;
 }
 
