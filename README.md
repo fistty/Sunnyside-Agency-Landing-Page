@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-f6J-eoh46U)
-- Live Site URL: [Netlify Live Site](https://fistty-clipboard-landing-page.netlify.app/)
+- Live Site URL: [Netlify Live Site](https://fistty-sunnyside-landing-page.netlify.app/)
 
 ## My process
 
